@@ -1,0 +1,24 @@
+{
+  "name": "nodejsconsoleprogramslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex150Rus/NodeJSconsoleProgramsLearning.git"
+  },
+  "author": "Alex Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex150Rus/NodeJSconsoleProgramsLearning/issues"
+  },
+  "homepage": "https://github.com/Alex150Rus/NodeJSconsoleProgramsLearning#readme"
+}
